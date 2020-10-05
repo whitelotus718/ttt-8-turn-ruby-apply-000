@@ -6,4 +6,8 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Hi, Welcome to Tic-Tac-Toe!"
 
 display_board(board)
+
+move(board,0,"O")
+move(board,8,"X")
+
 turn(board)
