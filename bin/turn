@@ -11,3 +11,6 @@ move(board, 0, "O")
 move(board, 8, "X")
 
 turn(board)
+turn(board)
+turn(board)
+turn(board)
